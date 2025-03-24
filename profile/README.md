@@ -1,9 +1,11 @@
 # 🍺BrauHaus
-![image](https://github.com/user-attachments/assets/8edc7ad7-07da-4e0c-b4be-828eda521c90)
-<br/>
----
 
+<img width="100%" alt="mainw" src="https://github.com/user-attachments/assets/39799ff4-d68a-4190-b846-46f1dc7daa76" />
+<br/>
+
+<br/>
 프로젝트 기간 25.02.03 ~ 25.03.14 <br/>
+
 
 ---
 👍 [meeting](https://github.com/QualityCore/QualityCore-backend/discussions/categories/meeting?discussions_q=) | 
@@ -63,9 +65,9 @@
  
  <a name = "프로젝트-일정"></a>
  ## 📌 프로젝트 일정
- ![timeLine](https://github.com/user-attachments/assets/214a3c18-b6d0-47ae-88be-162ed8495a34)
- 
- ---
+<img width="100%" alt="TimeLine" src="https://github.com/user-attachments/assets/7da436a3-9163-476d-b333-8682987ff97e" />
+
+---
 
 
 <a name ="아키텍쳐"></a>
