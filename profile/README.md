@@ -109,22 +109,22 @@
 
 | 구분 | 기술 |
 |------|------|
-| 프레임워크 | React |
-| 기본 기술 | HTML5, CSS3, JavaScript |
-| 라우팅 | React Router DOM |
-| 상태 관리 | useState, useEffect, useMemo, useCallback |
-| HTTP 통신 | fetch API, axios |
-| UI 구성 | MUI, Lucide-React, Chart.js |
-| 모달 처리 | react-modal |
-| 애니메이션 | Lottie-React, JS-Confetti |
-| 이미지 처리 | Lazy Loading, Canvas API (라벨 그리기) |
-| 파일 업로드 | Blob 변환 후 Multipart 전송 |
-| 마크다운 렌더링 | marked |
-| 사용자 인증 | Context API (useAuth) |
-| 스타일링 | CSS Modules, Flexbox 기반 레이아웃 |
-| 반응형 | Media Query (모바일 대응) |
-| 마이크로 UX | Gradient, Hover, Shadow, Transition 효과 |
-| 기타 | 단계별 플로우 구성, 커스텀 캘린더, 공정 카드 뷰 |
+| **프레임워크** | React |
+| **기본 기술** | HTML5, CSS3, JavaScript |
+| **라우팅** | React Router DOM |
+| **상태 관리** | useState, useEffect, useMemo, useCallback |
+| **HTTP 통신** | fetch API, axios |
+| **UI 구성** | MUI, Lucide-React, Chart.js |
+| **모달 처리** | react-modal |
+| **애니메이션** | Lottie-React, JS-Confetti |
+| **이미지 처리** | Lazy Loading, Canvas API (라벨 그리기) |
+| **파일 업로드** | Blob 변환 후 Multipart 전송 |
+| **마크다운 렌더링** | marked |
+| **사용자 인증** | Context API (useAuth) |
+| **스타일링** | CSS Modules, Flexbox 기반 레이아웃 |
+| **반응형** | Media Query (모바일 대응) |
+| **마이크로 UX** | Gradient, Hover, Shadow, Transition 효과 |
+| **기타** | 단계별 플로우 구성, 커스텀 캘린더, 공정 카드 뷰 |
 
 
 
@@ -134,8 +134,7 @@
 
 | 구분 | 기술 |
 |------|------|
-| 파일 저장소 | 로컬 스토리지 (Cloudinary 연동 예정이었으나 미사용) |
-| DB 백업 & 복제 | Oracle XE (로컬 환경, 별도 복제 구성 없음) |
+| **DB 백업 & 복제** | Oracle XE (로컬 환경, 별도 복제 구성 없음) |
 <br/>
 “현재는 Oracle XE 기반 로컬 저장소에서 테스트 진행했으며, 추후 클라우드 파일 저장소 및 DB 이중화 구성을 고려 중입니다.”
 
