@@ -151,10 +151,10 @@
 
 ### 생산계획
 
-### 생산지시
+### 작업업지시
 
 ### 생산공정 관리
-
+<br/>
 #### 분쇄 공정
 ![분쇄공정](https://github.com/user-attachments/assets/e2c1266b-491e-41ad-a1f1-14677ba0075c)
 <br/>
@@ -164,16 +164,38 @@
 #### 여과 공정
 ![여과공정](https://github.com/user-attachments/assets/f3f7459b-b019-4c07-a6e9-d20e3141342e)
 <br/>
-#### 끓임 공정
-<br/>
-#### 냉각 공정
-<br/>
-#### 발효 공정
 
+#### 끓임 공정
+![끓임gif](https://github.com/user-attachments/assets/e43ea00c-af94-48ec-ae6d-c6f4b72dc26a)
+<br/>
+
+#### 냉각 공정
+![냉각gif](https://github.com/user-attachments/assets/54999b70-3af2-431a-a7fa-d970dd736b4b)
+<br/>
+
+#### 발효 공정
+![발효gif](https://github.com/user-attachments/assets/ffb2cb1b-da48-4d62-81b8-f2b0c4a881ba)
+<br/>
+
+#### 숙성 공정
+![숙성공정](https://github.com/user-attachments/assets/aa068864-54c1-4106-b551-e5c2f9045e24)
+<br/>
+
+#### 숙성 후 여과 공정
+![숙성 후 여과공정](https://github.com/user-attachments/assets/76595ee5-4650-4936-ae8d-9aa95df5eb6d)
+<br/>
+
+#### 탄산조정 공정
+![탄산조정](https://github.com/user-attachments/assets/9e24e72c-822d-49c0-84c8-e639ddb2558a)
+<br/>
+
+#### 패키징 및 출하
+![포장 및 출하공정](https://github.com/user-attachments/assets/5b71d552-929b-4567-9628-37cb12d32fc4)
+<br/>
 
 ### Routing 관리
 
-...
+### 생산실적 관리
 
 <br/>
 <br/>
