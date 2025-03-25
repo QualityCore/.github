@@ -189,24 +189,28 @@
 #### 작업지시번호 및 자재정보 , PDF 파일
 
 <img src="https://github.com/user-attachments/assets/ba9bbe32-cf1a-4e52-92c0-8978448d3e1b" width="600"/>
+
+<br/>
+
 [LOT2025032501_작업지시서.pdf](https://github.com/user-attachments/files/19444867/LOT2025032501_.pdf)
-
-
 
 <br/>
 
 #### 분쇄 공정
 
+![분쇄공정](https://github.com/user-attachments/assets/251f617c-51ba-4234-957f-4fc66d4690b7)
 
 <br/>
 
 #### 당화 공정
 
+![당화공정](https://github.com/user-attachments/assets/acec4202-3b6b-4734-8825-3ba1b0a5b82c)
 
 <br/>
 
 #### 여과 공정
 
+![여과공정](https://github.com/user-attachments/assets/766b65ad-0dd6-4d37-a7b6-13911e59d77d)
 
 <br/>
 
