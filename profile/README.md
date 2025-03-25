@@ -216,36 +216,43 @@
 
 #### 끓임 공정
 
+![끓임공정gif](https://github.com/user-attachments/assets/cb385815-b42e-4291-8ce5-40462a2a9556)
 
 <br/>
 
 #### 냉각 공정
 
+![냉각공정gif](https://github.com/user-attachments/assets/717c7b8e-c0c4-42f0-ab27-ca0c9a4c3e17)
 
 <br/>
 
 #### 발효 공정
 
+![발효공정](https://github.com/user-attachments/assets/af637a06-ecb7-40a0-b62a-b7955622eaf0)
 
 <br/>
 
 #### 숙성 공정
 
+![숙성공정](https://github.com/user-attachments/assets/0d1050af-08d4-417d-a8f6-89c086312ff4)
 
 <br/>
 
 #### 숙성 후 여과 공정
 
+![숙성 후 여과 공정](https://github.com/user-attachments/assets/f24b5bc5-7be3-41eb-b65a-58d9ade2c7b7)
 
 <br/>
 
 #### 탄산조정 공정
 
+![탄산 조정 공정](https://github.com/user-attachments/assets/086959d9-5154-413a-9abc-2fa986d22af5)
 
 <br/>
 
 #### 패키징 및 출하
 
+![패키징 및 출하](https://github.com/user-attachments/assets/1f26e62f-0be7-4df2-96ca-ee5573c8e2f5)
 
 <br/>
 
