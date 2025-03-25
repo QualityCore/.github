@@ -138,6 +138,7 @@
 | **DB 백업 & 복제** | Oracle XE (로컬 환경, 별도 복제 구성 없음) |
 
 “현재는 Oracle XE 기반 로컬 저장소에서 테스트 진행했으며, 추후 클라우드 파일 저장소 및 DB 이중화 구성을 고려 중입니다.”
+
 <br/>
 <br/>
 
@@ -154,15 +155,22 @@
 ### 작업업지시
 
 ### 생산공정 관리
+
 <br/>
+
 #### 분쇄 공정
 ![분쇄공정](https://github.com/user-attachments/assets/e2c1266b-491e-41ad-a1f1-14677ba0075c)
+
 <br/>
+
 #### 당화 공정
 ![당화공정](https://github.com/user-attachments/assets/55148870-41e9-48b7-a342-4b8afb97b0f9)
+
 <br/>
+
 #### 여과 공정
 ![여과공정](https://github.com/user-attachments/assets/f3f7459b-b019-4c07-a6e9-d20e3141342e)
+
 <br/>
 
 #### 끓임 공정
@@ -171,26 +179,32 @@
 
 #### 냉각 공정
 ![냉각gif](https://github.com/user-attachments/assets/54999b70-3af2-431a-a7fa-d970dd736b4b)
+
 <br/>
 
 #### 발효 공정
 ![발효gif](https://github.com/user-attachments/assets/ffb2cb1b-da48-4d62-81b8-f2b0c4a881ba)
+
 <br/>
 
 #### 숙성 공정
 ![숙성공정](https://github.com/user-attachments/assets/aa068864-54c1-4106-b551-e5c2f9045e24)
+
 <br/>
 
 #### 숙성 후 여과 공정
 ![숙성 후 여과공정](https://github.com/user-attachments/assets/76595ee5-4650-4936-ae8d-9aa95df5eb6d)
+
 <br/>
 
 #### 탄산조정 공정
 ![탄산조정](https://github.com/user-attachments/assets/9e24e72c-822d-49c0-84c8-e639ddb2558a)
+
 <br/>
 
 #### 패키징 및 출하
 ![포장 및 출하공정](https://github.com/user-attachments/assets/5b71d552-929b-4567-9628-37cb12d32fc4)
+
 <br/>
 
 ### Routing 관리
