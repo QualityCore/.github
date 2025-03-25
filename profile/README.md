@@ -1,12 +1,9 @@
 # 🍺BrauHaus
 
-<div style="display: flex; width: 100%; height: 400px;">
-  <div style="flex: 1; background-image: url('IMAGE_URL_1'); background-size: cover; background-position: center;"></div>
-  <div style="flex: 1; background-image: url('IMAGE_URL_2'); background-size: cover; background-position: center;"></div>
-</div>
-
- 
-<br/>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f7a63cee-06f3-4eb1-a4fd-c5e62d9e3588" width="47%" />
+  <img src="https://github.com/user-attachments/assets/83435cc2-e93a-4c3b-be88-d802bf66dd0c" width="47%" />
+</p>
 
 <br/>
 프로젝트 기간 25.02.03 ~ 25.03.17 <br/>
