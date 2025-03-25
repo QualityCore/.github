@@ -1,6 +1,11 @@
 # 🍺BrauHaus
 
-<img width="100%" alt="mainw" src="https://github.com/user-attachments/assets/39799ff4-d68a-4190-b846-46f1dc7daa76" />
+<div style="display: flex; width: 100%; height: 400px;">
+  <div style="flex: 1; background-image: url('IMAGE_URL_1'); background-size: cover; background-position: center;"></div>
+  <div style="flex: 1; background-image: url('IMAGE_URL_2'); background-size: cover; background-position: center;"></div>
+</div>
+
+ 
 <br/>
 
 <br/>
