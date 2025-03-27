@@ -10,6 +10,7 @@
 
 
 ---
+
 👍 [meeting](https://github.com/QualityCore/QualityCore-backend/discussions/categories/meeting?discussions_q=) | 
 👍 [Front-PR](https://github.com/QualityCore/QualityCore-frontend/pulls?q=is%3Apr+is%3Aclosed) | 
 👍 [Back-PR](https://github.com/QualityCore/QualityCore-backend/pulls?q=is%3Apr+is%3Aclosed) | 
