@@ -9,7 +9,7 @@
 프로젝트 기간 25.02.03 ~ 25.03.17  <br/>
 
 
----
+<hr/>
 
 👍 [meeting](https://github.com/QualityCore/QualityCore-backend/discussions/categories/meeting?discussions_q=) | 
 👍 [Front-PR](https://github.com/QualityCore/QualityCore-frontend/pulls?q=is%3Apr+is%3Aclosed) | 
@@ -18,8 +18,7 @@
 👍 [Back-Issues](https://github.com/QualityCore/QualityCore-backend/pulls?q=is%3Apr+is%3Aclosed) | 
 
 <br/>
-
----
+<hr/>
 
 ## 🧭 빠른 이동
 
@@ -29,7 +28,7 @@
 - [기능 설명](#기능-설명)
 - [논리 & 물리 데이터 모델링](#논리--물리-데이터-모델링)
 
----
+<hr/>
 
 <a name = "프로젝트-소개"></a>
 ## 📌 프로젝트 소개
@@ -69,14 +68,14 @@
  - [🏳️‍🌈 Figma](https://www.figma.com/design/KaKLszFW3IRpA7HM89VoiI/Qulity_Core?node-id=0-1&p=f&t=5U3P5uWp6YptJbit-0)
 
  
- ---
+<hr/>
 
  
  <a name = "프로젝트-일정"></a>
  ## 📌 프로젝트 일정
 <img width="100%" alt="TimeLine" src="https://github.com/user-attachments/assets/7da436a3-9163-476d-b333-8682987ff97e" />
 
----
+<hr/>
 
 
 <a name = "기술-스택"></a>
@@ -141,7 +140,7 @@
 
 <br/>
 
----
+<hr/>
 
 <br/>
 <br/>
@@ -157,7 +156,7 @@
 
 <br/>
 
----
+<hr/>
 
 <br/>
 
@@ -165,7 +164,7 @@
 
 <br/>
 
----
+<hr/>
 
 <br/>
 
